@@ -1,4 +1,4 @@
-# 📊 Data Analysis and Prediction Project
+# 📊 Drug Data Analysis and Prediction Project
 
 ## 🧠 Overview
 
@@ -39,4 +39,3 @@ The goal of this notebook is to understand data trends, clean and process raw in
 
 ---
 
-## 📂 Project Structure
